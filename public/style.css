@@ -1,0 +1,71 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Nunito', sans-serif;
+	font-size: 19px;
+	color: #340913;
+	background-color: #EBF7D4;
+  margin:0;
+  text-align:center;
+}
+header {
+  background-color:#98CA32;
+  position:relative;
+  top:0px;
+  width:auto;
+  height:130px;
+  font: 55px bold;
+  font-family:'Fredoka One', cursive; 
+  color:#B8143A;
+  padding-top:50px;
+}
+#main {
+	padding: 0;
+	margin-top: 40px;
+  max-width:800px;
+  margin:auto;
+}
+
+footer {
+  position:relative;
+  bottom:0;
+  height:auto;
+  width:100%;
+  color:#98CA32;
+  padding:20px 0;
+  background-color:#340913;
+}
+
+ol {
+	list-style-position: inside;
+}
+ul {
+	list-style-type: none;
+}
+
+a {
+	color: #2574A9;
+}
+
+input {
+  display: inline-block;
+  position: relative;
+  font-size:20px;
+  height: 30px;
+  width: 380px;
+}
+
+.view {
+  position:relative;
+  margin-top: 60px;
+  border: 2px  groove  #D61A46;
+  padding: 20px;
+  width: 100%;
+  max-width: 800px;
+}
+/****** Logo Div Styling ******/
+
+img {
+	margin: 20px auto 0 auto;
+	display: block;
+}
